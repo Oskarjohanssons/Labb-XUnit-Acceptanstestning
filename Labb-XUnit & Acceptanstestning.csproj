@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Labb_XUnit___Acceptanstestning</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Labb-XUnit &amp; Acceptanstestning.Tests\**" />
+    <EmbeddedResource Remove="Labb-XUnit &amp; Acceptanstestning.Tests\**" />
+    <None Remove="Labb-XUnit &amp; Acceptanstestning.Tests\**" />
+  </ItemGroup>
+
+</Project>
