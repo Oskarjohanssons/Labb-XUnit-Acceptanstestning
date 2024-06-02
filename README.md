@@ -34,7 +34,7 @@ Applikationen ska skriva ut "Resultatet är: 4.2".
 **Steg för att utföra testet:**
 1. Öppna applikationen.
 2. Utför en eller flera beräkningar (t.ex. addition och subtraktion).
-3. Skriv "L" eller en annan fördefinierad bokstav för att lista tidigare beräkningar.
+3. Skriv "5" för att lista tidigare beräkningar.
 4. Tryck Enter.
 5. Notera listan med tidigare beräkningar.
 6. Avsluta applikationen.
